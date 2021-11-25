@@ -1,8 +1,5 @@
 #!/bin/bash
 ################################################################################
-# Descripción: Script para configurar Certificado de Seguridad Autofirmado en Raspberry para Grupo Buen Rollo
-# Autor: Pitaya Tech, S.A.
-#-------------------------------------------------------------------------------
 # Instrucciones:
 # Crear un nuevo archivo:
 # sudo nano certificado.sh
